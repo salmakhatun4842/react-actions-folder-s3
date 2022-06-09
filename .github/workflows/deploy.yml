@@ -1,4 +1,4 @@
-name: React CI TO AWS S3
+name: React CI -S3
 
 on:
   push:
